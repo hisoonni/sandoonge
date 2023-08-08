@@ -1,2 +1,2 @@
-# sandoonge
-ICT 멘토링 프로보노 모바일 어플리케이션 개발 프로젝트
+# udemy_android_template_bottomnavi
+안드로이드 플로 클론 1주차에 필요한 템플릿입니다.
